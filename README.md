@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MisterLifey
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently Java 
+- 🌱 I’m currently learing to become a Software Engineer via Make IT Work in Groningen at the Hanze University of Applied Sciences 
 - 📫 How to reach me: jbb.smits@gmail.com
 
 <!---
